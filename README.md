@@ -4,7 +4,7 @@
 1. Download XCode from the App Store. Open it and accept the Terms.
 2. [Download Visual Studio Code](https://code.visualstudio.com/)
 3. Install [C++ Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools)
-4. Clone or Download this Github Repo
+4. Clone or Download this Github Repo (or just add the include `.vscode` to your project)
 
 ## Debug
 1. Open `cpp-vscode` directory in Visual Studio Code
