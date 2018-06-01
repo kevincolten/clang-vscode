@@ -6,7 +6,7 @@
     {
       "label": "build",
       "type": "shell",
-      "command": "(cd ${fileBasenameNoExtension} && g++ ${fileBasenameNoExtension}.cpp -g)",
+      "command": "(cd ${fileBasenameNoExtension} && clang ${fileBasenameNoExtension}.cpp -g)",
       "group": {
         "kind": "build",
         "isDefault": true
